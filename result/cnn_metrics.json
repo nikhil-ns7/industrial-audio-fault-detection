@@ -1,0 +1,14 @@
+{
+    "model": "CNN",
+    "dataset_size": {
+        "train": 4419,
+        "validation": 947,
+        "test": 948
+    },
+    "best_epoch": 9,
+    "test_loss": 0.28996416327233115,
+    "accuracy": 0.8660337552742616,
+    "precision": 0.9437340153452686,
+    "recall": 0.7784810126582279,
+    "f1_score": 0.8531791907514451
+}

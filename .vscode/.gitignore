@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Raw datasets
+data/
+
+# Large pretrained models
+beats/*.pt
+model/ast_best.pth
+
+# Include our trained CNN model
+!model/cnn_best.pth
+
+# External BEATs repository
+beats/source/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+data/
+
+beats/*.pt
+model/ast_best.pth
+
+beats/source/
+
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db

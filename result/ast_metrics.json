@@ -1,0 +1,14 @@
+{
+    "model": "AST",
+    "dataset_size": {
+        "train": 4419,
+        "validation": 947,
+        "test": 948
+    },
+    "best_epoch": 3,
+    "test_loss": 0.46129128361270144,
+    "accuracy": 0.7732067510548524,
+    "precision": 0.7616161616161616,
+    "recall": 0.7953586497890295,
+    "f1_score": 0.7781217750257998
+}
